@@ -6,7 +6,7 @@ https://github.com/mailcourses/technotrack-NN2021S-lectures/tree/main/kaggle
 
 ### Инструкция как создать себе ветку 
 для того, чтобы создать свою ветку пишите: 
-git checkput -b [своё имя]Branch  # это создаст на локальном репоизтории ветку вида MaximBranch
+git checkput -b [своё имя]Branch  
 
 потом запуште ветку на удалённый репозиторий:
 git push --set-upstream origin [ваше имя]Branch
